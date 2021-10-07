@@ -1,3 +1,3 @@
 # movieseat-javascript
 html css javascript
-link::=>https://anubhavmovieseat.netlify.app/
+link::=>https://moviesatyam.netlify.app/
