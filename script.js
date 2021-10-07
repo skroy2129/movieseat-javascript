@@ -26,7 +26,6 @@ seats.forEach((seat) => {
 });
 movie.addEventListener("click", function () {
   console.log(movie.value);
-  console.log("satyam");
   totalamount = selectcount * movie.value;
   total.innerText = totalamount;
 });
